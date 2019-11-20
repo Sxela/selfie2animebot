@@ -1,10 +1,10 @@
-# selfie2animebot
+# Selfie 2 Anime Bot
 A simple bot that converts selfies into anime
 
 # Install 
 npm install 
 
-# run
+# Run
 npm run tsc
 pm2 start ecosystem.config.js
 
