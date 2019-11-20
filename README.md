@@ -5,8 +5,8 @@ A simple bot that converts selfies into anime
 npm install 
 
 # Run
-npm run tsc
-pm2 start ecosystem.config.js
+* npm run tsc
+* pm2 start ecosystem.config.js
 
 # Credits
 Based on https://github.com/taki0112/UGATIT
