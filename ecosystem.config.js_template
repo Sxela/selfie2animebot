@@ -1,0 +1,19 @@
+module.exports = {
+  apps : [{
+    name: 'selfie2anime',
+    script: './dist/anime.js',
+
+    instances: 1,
+    autorestart: true,
+    watch: false,
+    env: {
+      NODE_ENV: 'development',
+      BOT_TOKEN: 'your_token',
+      ALGO_KEY: 'your_algo_key'
+    },
+    env_production: {
+      NODE_ENV: 'production'
+    }
+  }]
+
+};
