@@ -9,4 +9,4 @@ npm install
 * pm2 start ecosystem.config.js
 
 # Credits
-Model is based on https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+Model is based on https://github.com/taki0112/UGATIT
