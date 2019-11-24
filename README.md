@@ -1,5 +1,6 @@
 # Selfie 2 Anime Bot
-A simple bot that converts selfies into anime
+A simple bot that converts selfies into anime.
+
 Give it a try here: https://t.me/selfie2animebot
 
 # Install 
